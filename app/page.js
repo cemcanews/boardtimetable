@@ -8,12 +8,9 @@ export default function Home() {
         <p>
           <p>The All Board of India will conduct the 12th Class Annual Exam in February or March of 2024. Students should check the 5th, 8th, 9th, 10th, 11th, 12th Class Exam Schedule 2024 in PDF format for subject-wise exam dates. Once they have reviewed all the information, students can start preparing for their exams according to the given time tables.
 You can find the time tables for all Boards’ 12th exams on this page. Stay updated with the latest information regarding the release of the 12th Board Time Table. By checking this page, students can access complete details about SSC/HSC Exam Time Tables for 2024.
-        </p>
-        <div>
+        </p> 
           <a
-            href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
+            href="https://cemca.org.in/board-time-table/"
           >
             By{' '}
             <Image
@@ -41,52 +38,40 @@ You can find the time tables for all Boards’ 12th exams on this page. Stay upd
 
       <div className={styles.grid}>
         <a
-          href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
+          href="https://cemca.org.in/10th-board-time-table/"
         >
           <h2>
             Docs <span>-&gt;</span>
           </h2>
-          <p>Find in-depth information about Next.js features and API.</p>
+          <p>Find 10th Board Time table 2024 here.</p>
         </a>
 
         <a
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
+          href="https://cemca.org.in/12th-board-time-table/"
         >
           <h2>
             Learn <span>-&gt;</span>
           </h2>
-          <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
+          <p>12th Board Time table 2024</p>
         </a>
 
         <a
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
+          href="https://cemca.org.in/category/time-table/board-time-table/"
         >
           <h2>
-            Templates <span>-&gt;</span>
+            Board time table 2024 <span>-&gt;</span>
           </h2>
-          <p>Explore the Next.js 13 playground.</p>
+          <p>board time table 2024</p>
         </a>
 
         <a
-          href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
-          className={styles.card}
-          target="_blank"
-          rel="noopener noreferrer"
+          href="https://cemca.org.in/category/time-table/university-time-table/"
         >
           <h2>
-            Deploy <span>-&gt;</span>
+            University date sheer <span>-&gt;</span>
           </h2>
           <p>
-            Instantly deploy your Next.js site to a shareable URL with Vercel.
+            Find Uni. exam dates.
           </p>
         </a>
       </div>
